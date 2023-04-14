@@ -1,0 +1,25 @@
+.navbar-custom{
+    width: -webkit-fill-available;
+}
+.logo{
+    padding-left: 0px;
+
+}
+.wrap{
+    height: 33px;
+    background-color: rgb(207, 207, 207);
+    border-radius: 5px;
+}
+
+.full_width{
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+
+#navId {
+    position: relative;
+}
